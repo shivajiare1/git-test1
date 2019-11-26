@@ -1,1 +1,2 @@
-puts"welcome to devops"`
+puts"welcome to devops"
+puts"second commit"
